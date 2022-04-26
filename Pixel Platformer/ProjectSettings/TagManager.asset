@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Climbable
+  - Game Manager
   layers:
   - Default
   - TransparentFX
@@ -38,17 +40,11 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: New Layer 4
+  - name: Player
     uniqueID: 3980810445
     locked: 0
-  - name: New Layer 3
+  - name: Stuff
     uniqueID: 2840238957
-    locked: 0
-  - name: New Layer 2
-    uniqueID: 3820066677
-    locked: 0
-  - name: New Layer 1
-    uniqueID: 4083020087
     locked: 0
   - name: Background
     uniqueID: 2269643355
