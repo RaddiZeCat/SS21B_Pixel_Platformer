@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Climbable
   - Game Manager
+  - Player Start
+  - Instant Kill
   layers:
   - Default
   - TransparentFX
