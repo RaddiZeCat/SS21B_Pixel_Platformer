@@ -28,7 +28,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TEX_Prop_Coin (16 x 16)_0
+  m_Name: AC_Coin
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
